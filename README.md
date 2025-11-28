@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://tenor.com/dFEUw5tRXG6.gif" width="100%" style="max-width: 800px; border-radius: 10px;" alt="Coding GIF" />
+</div>
+
+<br/>
+
 <h1 align="center">Hai, Saya Kinzx! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
@@ -21,7 +27,7 @@ Selamat datang di ruang kode saya. Saat ini saya sedang fokus untuk meningkatkan
 
 ---
 
-### 🛠️ Tech Stack & Alat (Contoh)
+### 🛠️ Tech Stack & Alat
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
