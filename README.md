@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/dFEUw5tRXG6.gif" width="100%" style="max-width: 800px; border-radius: 10px;" alt="Coding GIF" />
+  <img src="https://media.tenor.com/dFEUw5tRXG6AAAAC/programming-coding.gif" width="100%" style="max-width: 800px; border-radius: 10px;" alt="Coding GIF" />
 </div>
 
 <br/>
@@ -48,7 +48,7 @@ Selamat datang di ruang kode saya. Saat ini saya sedang fokus untuk meningkatkan
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinzx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kinzx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
