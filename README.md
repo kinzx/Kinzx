@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.tenor.com/dFEUw5tRXG6AAAAC/programming-coding.gif" width="100%" style="max-width: 800px; border-radius: 10px;" alt="Coding GIF" />
-</div>
+![ayaka](img/ayaka.jpg)
 
 <br/>
 
