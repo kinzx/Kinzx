@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3772FF&center=true&vCenter=true&width=435&lines=Selamat+datang+di+profil+saya!;Tech+Enthusiast;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3772FF&center=true&vCenter=true&width=435&lines=Selamat+datang+di+profil+saya!;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
@@ -22,8 +22,8 @@
 Selamat datang di ruang kode saya. Saat ini saya sedang fokus untuk meningkatkan keterampilan dan menjelajahi teknologi baru.
 
 - 🔭 Saya saat ini sedang mengerjakan proyek-proyek pribadi.
-- 🌱 Saya sedang belajar tentang pengembangan perangkat lunak.
-- ⚡ Fakta menarik: Saya suka memecahkan masalah dengan kode.
+- 🌱 Saya sedang belajar tentang pengembangan AI.
+- ⚡ Fakta menarik: Saya suka mendesign website.
 
 ---
 
