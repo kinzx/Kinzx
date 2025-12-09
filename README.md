@@ -41,17 +41,6 @@ Selamat datang di ruang kode saya. Saat ini saya sedang fokus untuk meningkatkan
 
 ### 📊 Statistik GitHub Saya
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinzx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik Kinzx" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kinzx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzx&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Terbanyak Digunakan" />
-</p>
 
 <br/>
 
