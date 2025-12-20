@@ -70,7 +70,7 @@ Selamat datang di ruang kode saya. Saat ini saya sedang fokus untuk meningkatkan
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinzx&locale=en&radius=16&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinzx&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinzx/kinzx/output/pacman-contribution-graph-dark.svg">
