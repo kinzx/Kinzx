@@ -1,4 +1,4 @@
-![ayaka](img/ayaka.jpg)
+![ayaka](img/ayaka1.jpg)
 
 <br/>
 
