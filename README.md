@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="img/ayaka1.jpg" alt="ayaka" style="border-radius: 25px; object-fit: cover;">
+  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/USERNAME/REPO/main/img/ayaka1.jpg&mask=circle&w=200&h=200&output=png" alt="ayaka">
 </p>
 
 <br/>
