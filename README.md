@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/kinzx/kinzx/main/img/image.png&output=png&radius=16&" alt="ayaka">
+  <img src="img/image.png" alt="ayaka" >
 </p>
 
 <br/>
