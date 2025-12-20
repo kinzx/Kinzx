@@ -1,4 +1,10 @@
-![ayaka](img/ayaka1.jpg)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+<p align="center">
+  <img src="img/ayaka1.jpg" alt="ayaka" style="border-radius: 25px; object-fit: cover;">
+</p>
 
 <br/>
 
@@ -13,9 +19,13 @@
   <em>Terima kasih telah mengunjungi profil GitHub saya.</em>
 </p>
 
+<div align="center">
+  <img src="https://count.getloli.com/@:kinzx?theme=minecraft&padding=5&offset=0&scale=0.9&align=center&pixelated=1&darkmode=auto"  />
+</div>
+
 ---
 
-### 🧐 Tentang Saya
+### 📄 Tentang Saya
 
 Selamat datang di ruang kode saya. Saat ini saya sedang fokus untuk meningkatkan keterampilan dan menjelajahi teknologi baru.
 
@@ -25,14 +35,28 @@ Selamat datang di ruang kode saya. Saat ini saya sedang fokus untuk meningkatkan
 
 ---
 
-### 🛠️ Tech Stack & Alat
+### 🌐 Sosial Media Saya
+
+<p align="left">
+  <a href="https://www.instagram.com/ka.sae_/"> 
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/kinar-aurasae-a851b62aa/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</p>
+
+
+### 🛠️ Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 <br/>
@@ -41,9 +65,20 @@ Selamat datang di ruang kode saya. Saat ini saya sedang fokus untuk meningkatkan
 
 ### 📊 Statistik GitHub Saya
 
+<img align="right" src="img/ev2.gif"  />
+<div align="left">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinzx&locale=en&radius=16&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinzx&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinzx/kinzx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinzx/kinzx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kinzx/kinzx/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
-</p>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
