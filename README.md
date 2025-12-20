@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:kinzx?theme=minecraft&padding=5&offset=0&scale=0.9&align=center&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:kinzx?theme=minecraft&padding=5&offset=0&scale=0.9&align=center&pixelated=1&darkmode=0"  />
 </div>
 
 ---
