@@ -8,7 +8,7 @@
 
 <br/>
 
-<h1 align="center">Hai, Saya Kinzx! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hai, Saya Kinar Aurasae! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-  <em>Terima kasih telah mengunjungi profil GitHub saya.</em>
+  <em>Pengunjung profil saya hari ini</em>
 </p>
 
 <div align="center">
