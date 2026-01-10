@@ -1,6 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+
 
 <p align="center">
   <img src="img/gif.gif" alt="ayaka" >
@@ -8,7 +6,7 @@
 
 <br/>
 
-<h1 align="center">Hai, Saya Kinzx! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hai, Saya Kinar Aurasae! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,7 +14,7 @@
   </a>
 </p>
 <p align="center">
-  <em>Terima kasih telah mengunjungi profil GitHub saya.</em>
+  <em>Pengunjung profil saya hari ini</em>
 </p>
 
 <div align="center">
