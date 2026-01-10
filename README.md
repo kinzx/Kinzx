@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="img/image.png" alt="ayaka" >
+  <img src="img/gif.gif" alt="ayaka" >
 </p>
 
 <br/>
